@@ -52,7 +52,7 @@ anchor test --program-name hello_anchor
 To initialize the whitelist, call the init_token instruction:
 
 ```shell
-anchor test --program-name hello_anchor --args '{"name": "TokenName", "symbol": "TKN", "uri": "https://example.com/metadata.json", "decimals": 0}'
+anchor test --program-name hello_anchor --args '{"name": "TokenName", "symbol": "TKN", "uri": "https://5vfxc4tr6xoy23qefqbj4qx2adzkzapneebanhcalf7myvn5gzja.arweave.net/7UtxcnH13Y1uBCwCnkL6APKsge0hAgacQFl-zFW9NlI", "decimals": 0}'
 ```
 
 ### Mint Tokens
