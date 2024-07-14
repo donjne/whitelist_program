@@ -17,7 +17,7 @@ Ensure you have the following tools installed:
 Clone the repository containing the `hello_anchor` program:
 
 ```shell
-git clone <repository-url>
+git clone https://github.com/donjne/whitelist_program.git
 cd hello_anchor
 ```
 
